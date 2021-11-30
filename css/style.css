@@ -1,0 +1,187 @@
+
+  .inline-block {
+  float: left;
+  padding: 12px;
+  }
+
+
+  .navitems {
+    list-style: none;
+    display: block;
+    padding: 30px;
+    font-family: Mulish, sans-serif;
+    font-size: 26px;
+    color: #6270B5;
+
+  }
+
+ 
+  #NameHead {
+    font-size: 30px;
+    color:#D67734;
+    text-align: left;
+  }
+  
+  .flexContainer {
+    display: flex;
+    margin-right:15%;
+    margin-left: 15%;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  
+.UserResearch, .UserEmpathy, .QualitativeInterviews {
+    width: 33%;
+    margin: 20px;
+    justify-content: center;
+    
+}
+
+#UserResearch {
+  margin: auto;
+  display: block;
+  height: 130px;
+}
+
+#UserEmpathy {
+  margin: auto;
+  display: block;
+  height: 130px;
+}
+
+#QualitativeInterviews {
+  margin: auto;
+  display: block;
+  height: 130px;
+}
+
+.UserEmpathy {
+    width: 33%;
+}
+
+.QualitativeInterviews {
+    width: 33%;
+}
+
+h4 {
+    font-family: Mulish, sans-serif;
+    font-style: bold;
+    font-size: 40px;
+    text-align: center;
+    color: #6270B5;
+}
+
+#aboutmyself {
+  font-family: Mulish, sans-serif;
+    font-style: bold;
+    font-size: 40px;
+    color: #6270B5;
+    display: flex;
+    align-content: flex-start;
+}
+
+
+.aboutmyselfsection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3%;
+  margin-right: 35%;
+  margin-left: 35%;
+}
+
+
+
+#myphoto {
+ margin: auto;
+ margin-top: 7%;
+ display: block;
+ width: 1020px;
+}
+
+#mydescription {
+    font-family: Mulish, sans-serif;
+    font-size: 30px;
+    color:#D67734;
+    font-style: normal;
+    text-align: left;
+    margin: 5%;
+    margin-bottom: 15%; 
+}
+
+ h5 {
+      font-family: Mulish, sans-serif, sans-serif;
+      font-style: bold;
+      color: #6270B5;
+      font-size: 26px;
+      text-align: center;
+  }
+
+  p {
+      font-family: Mulish, sans-serif;
+      font-style: normal;
+      color: #D67734;
+      font-size: 24px;
+      text-align: center;
+  }
+
+  .footer {
+      align-content: center;
+      flex-direction: column;
+      justify-content: center;
+  }
+
+  #footerheader {
+      text-align: center;
+      font-family: Mulish, sans-serif;
+      font-style: bolder;
+      text-transform: uppercase;
+      font-size: 20px;
+      color: #6270B5
+  }
+
+  #footerlogos {
+     text-align: center;
+     margin: 1%;
+  }
+
+  #LinkedIn {
+    width: 25px;
+    padding: 1%;
+  }
+
+
+  #Email {
+    width: 25px;
+    padding: 1%;
+
+  }
+
+  #toolsheader {
+    font-size: 40px;
+    font-family: Mulish, sans-serif;
+    font-style: bold;
+    color: #6270B5;
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 5%;
+  }
+
+  #toollist {
+    display: flex;
+    align-content:space-between, 5px;
+    justify-content: space-around;
+    align-content: flex-end;
+    list-style: none;
+    padding: 4%;
+    margin-left: 8.5%;
+    margin-right: 10%;
+    font-size: 26px;
+    font-family: Mulish, sans-serif;
+    font-style: bold;
+    color: #6270B5;
+
+  }
+
+ 
